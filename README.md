@@ -16,3 +16,4 @@
 ## 参考
 - [コマンドライン初心者のための基礎](https://uxmilk.jp/tag/linux)
 - [シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
+- https://taku.adachi-navi.com/sankou/RedHat/command_linux/~mms/unix/linux_com/index_gen.html
